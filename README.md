@@ -67,9 +67,3 @@ Se utilizó IA generativa (Claude) en las siguientes actividades:
 - Desarrollo de la lógica de vecinos más cercanos en `quadtree.py`.
 - Generación de `test.py` (pruebas unitarias, adaptadores de radio y vecino más cercano, y verificación visual).
 - Generación de `analisis.py` (experimento y gráficas) y apoyo en el análisis comparativo frente a fuerza bruta.
-
-## Código de honor
-
-Declaro que este trabajo refleja fielmente el uso de IA generativa descrito arriba. Escribí las partes de `quadtree.py` que no están señaladas y puedo explicarlas durante la sustentación.
-
-Firma: __________________ Fecha: __________
