@@ -1,3 +1,4 @@
+# Sebastian Gómez Quintero
 # Quadtree: sistema de logística de entregas
 
 Implementación de un Quadtree para 10.000 puntos de entrega en un plano de 10.000 × 10.000 m, comparada contra fuerza bruta.
